@@ -53,6 +53,7 @@ Practice app to show case the use of SwiftUI, Arrays, Computed Properties, Grids
 
 ### Jurassic Park Dinosaurs Catalog - Practice App
 Practice app to show case the use of SwiftUI, List, Navigation & Search, Filter & Sort, Gradient, Mapkit, MapView, Zoom Transition, and iMessage Stickers.
+
 [View Repository](https://github.com/cmoyc90/LOTRConverter)
 
 ## 🎯 Currently Focused On
